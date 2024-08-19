@@ -9,7 +9,7 @@ The dashboard includes the following KPIs to help users quickly grasp the critic
 
 * Total Casualties: Overall number of casualties recorded.
 * Serious Casualties: Number of casualties classified as serious.
-* Fatal Casualties: Number of fatal incidents recorded.
+* Fatal Casualties: Number of fatal incidents recorded. 
 * Slight Casualties: Number of casualties classified as slight.
 * Casualty by Vehicle Type: Breakdown of casualties involving different vehicle types (Car, Truck, Bus, Motorcycle, Others).
 
