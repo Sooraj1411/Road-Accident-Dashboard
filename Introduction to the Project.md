@@ -6,7 +6,7 @@ This Excel-based dashboard provides an in-depth analysis of road accidents, focu
 
 ## Key Performance Indicators (KPIs)
 The dashboard includes the following KPIs to help users quickly grasp the critical metrics:
-
+ 
 * Total Casualties: Overall number of casualties recorded.
 * Serious Casualties: Number of casualties classified as serious.
 * Fatal Casualties: Number of fatal incidents recorded. 
